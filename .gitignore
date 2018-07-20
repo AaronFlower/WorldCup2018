@@ -1,3 +1,4 @@
 fifa/data/matches
 .env
 node_modules
+.ipynb_checkpoints
